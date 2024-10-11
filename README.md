@@ -1,1 +1,1 @@
-# project_2
+In my project, I developed a personal portfolio website using HTML, CSS, and JavaScript. The goal of the project was to create an interactive, user-friendly platform to showcase my skills, projects, and experiences.
